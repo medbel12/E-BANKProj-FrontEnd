@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+}
+
+.login-form {
+  width: 400px;
+  flex: auto;
+  margin-top: 150px;
+  margin-left: 450px;
+  
+}
+mat-form-field{
+  display: flex;
+}
+
+
+mat-card-actions{
+  margin: auto;
+}
+
+
